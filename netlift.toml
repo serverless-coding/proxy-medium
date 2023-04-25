@@ -1,0 +1,4 @@
+[[redirects]]
+  from = "/*"
+  to = "https://medium.com/:splat"
+  status = 200
